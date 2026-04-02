@@ -1,0 +1,41 @@
+{
+    "name": "domprojects/codeigniter4-bootstrap-icons",
+    "description": "Bootstrap Icons asset publisher for CodeIgniter 4 projects.",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "codeigniter4",
+        "codeigniter",
+        "bootstrap-icons",
+        "icons",
+        "assets",
+        "publisher"
+    ],
+    "homepage": "https://github.com/domProjects/codeigniter4-bootstrap-icons",
+    "support": {
+        "issues": "https://github.com/domProjects/codeigniter4-bootstrap-icons/issues",
+        "source": "https://github.com/domProjects/codeigniter4-bootstrap-icons"
+    },
+    "authors": [
+        {
+            "name": "domProjects",
+            "homepage": "https://github.com/domProjects",
+            "role": "Maintainer"
+        }
+    ],
+    "require": {
+        "php": "^8.2",
+        "codeigniter4/framework": "^4.7.2",
+        "twbs/bootstrap-icons": "^1.13"
+    },
+    "autoload": {
+        "psr-4": {
+            "domProjects\\CodeIgniterBootstrapIcons\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-main": "1.x-dev"
+        }
+    }
+}
