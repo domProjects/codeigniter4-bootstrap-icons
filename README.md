@@ -1,5 +1,11 @@
 # Bootstrap Icons for CodeIgniter 4
 
+[![Packagist](https://img.shields.io/packagist/v/domprojects/codeigniter4-bootstrap-icons?label=Packagist)](https://packagist.org/packages/domprojects/codeigniter4-bootstrap-icons)
+[![License](https://img.shields.io/github/license/domProjects/codeigniter4-bootstrap-icons)](https://github.com/domProjects/codeigniter4-bootstrap-icons/blob/main/LICENSE)
+[![PHPUnit](https://img.shields.io/github/actions/workflow/status/domProjects/codeigniter4-bootstrap-icons/phpunit.yml?branch=main&label=PHPUnit)](https://github.com/domProjects/codeigniter4-bootstrap-icons/actions/workflows/phpunit.yml)
+[![Psalm](https://img.shields.io/github/actions/workflow/status/domProjects/codeigniter4-bootstrap-icons/psalm.yml?branch=main&label=Psalm)](https://github.com/domProjects/codeigniter4-bootstrap-icons/actions/workflows/psalm.yml)
+[![PHPStan](https://img.shields.io/github/actions/workflow/status/domProjects/codeigniter4-bootstrap-icons/phpstan.yml?branch=main&label=PHPStan)](https://github.com/domProjects/codeigniter4-bootstrap-icons/actions/workflows/phpstan.yml)
+
 Bootstrap Icons asset publisher for CodeIgniter 4 projects.
 
 ## Features
