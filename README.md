@@ -1,4 +1,4 @@
-# domProjects CodeIgniter 4 Bootstrap Icons
+# Bootstrap Icons for CodeIgniter 4
 
 Bootstrap Icons asset publisher for CodeIgniter 4 projects.
 
